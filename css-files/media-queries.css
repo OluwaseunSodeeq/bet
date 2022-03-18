@@ -1,0 +1,30 @@
+@media (max-width: 480px) {
+    body {
+        width: auto;
+        flex-direction: column;
+
+    }
+    .logo img {
+        margin-left: 5px;
+    }
+    .icon-navbar i {
+        margin-right: 5px;
+    }
+    .header-two >.odd {
+        align-items: center;
+    }
+    .header-three >.button-left {
+        margin-left: 5px;
+    }
+    .header-three >.button-right {
+        margin-right: 5px;
+    }
+
+    .betslip-left p {
+        margin-left: 2px;
+
+    }
+    
+
+
+}

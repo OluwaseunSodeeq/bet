@@ -1,0 +1,125 @@
+/* header-section */
+body {
+    width: auto;
+    overflow: hidden;
+}
+.header {
+    background-color: black;
+    border: 1px solid #000;
+    background-size: auto;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+} 
+.header i {
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 2px;
+    margin-right: 10px;
+}
+span {
+    font-weight: 900;
+}
+hr {
+    margin-top: -10px;
+    margin-bottom: 0;
+}
+.icon-navbar {
+    font-size: 30px;
+    display: flex;
+    align-items: flex-end;
+}
+.first {
+    width: 100%;
+    height: auto;
+    margin-top: -16px;
+
+
+}
+.header-two {
+    width: auto;
+    background-color: white;
+   
+}
+.header-two >.odd p{
+    text-align: center;
+    margin-top: 2px ;
+    margin-bottom: 2px;
+}
+.header-three {
+    width: 100%;
+    background-color: rgb(9, 82, 9);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:0;
+    
+}
+.header-three a {
+    background-color: white;
+    border:1px solid rgb(9, 82, 9); 
+    border-top: 5pxs;
+    width: 100%;
+    
+}
+.button-left {
+    margin-left: 5px;
+} 
+
+.button-right {
+    margin-right: 10px;
+} 
+a {
+    text-decoration: none;
+    color: #000;
+}
+.header-three >.button-wrapper {
+    margin-top: 10px;
+    font-size: 25px;
+}
+.header-three p {
+    color: white;
+    font-size: 17px;
+}
+.black-and-red {
+    background-color: #000;
+    border-bottom: 3px solid red;
+    width: auto;
+    height: 30;
+    
+
+}
+.betslip-left {
+    background-color: rgba(48, 40, 40,1);
+    width: auto;
+    height: 30;
+    margin-top:-16px;
+}
+.betslip-left p {
+    font-size: 16px;
+    color: white;
+}
+.second {
+    background-color: rgb(151, 248, 151);
+    width: 100%;
+    height: auto;
+    margin-top: -16px;
+}
+.second p {
+    text-align: center;
+    color: #000;
+    font-size: 26px;
+}
+.third {
+    width: 100%;
+    height: auto;
+    margin-top: -20px;
+
+}
+
+
+
+
+
+
+
+
